@@ -35,7 +35,7 @@ In this exercise, you'll use a combination of a PowerShell script and an ARM tem
     rm -r dp-203 -f
     git clone https://github.com/MicrosoftLearning/dp-203-azure-data-engineer dp-203
     ```
-    <<<<<<<< **Corrected CODE** >>>>>>>> 
+    <<<<<<<< corrected code >>>>>>>> 
     ```
     rm -r dp-203 -f
      git clone https://github.com/Pavlo-78/400-AZURE-dp-203.git dp-203
